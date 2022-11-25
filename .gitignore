@@ -3,5 +3,5 @@
 /lagou/node_modules/
 /navbar/node_modules/
 /realworld/node_modules/
-/todos/
-/tools/
+/todos/node_modules/
+/tools/node_modules/
